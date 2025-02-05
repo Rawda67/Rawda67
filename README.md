@@ -2,7 +2,7 @@
 
 ### Mobile & Web Developer 🚀
 - 🌟 Passionate about building user-friendly and scalable applications.
-- ✨ Experienced in HTML, CSS, JavaScript, PHP, SQL,Kotlin,Flutter and more.
+- ✨ Experienced in HTML, CSS, JavaScript, PHP, SQL, Kotlin, Flutter and more.
 - 🚀 Currently exploring advanced concepts in information systems.
 
 ### Connect with me:
